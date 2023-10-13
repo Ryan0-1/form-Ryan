@@ -1,0 +1,23 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 3px 0;
+}
+
+input {
+    margin: 0 0 10px;
+}
+
+#formBox {
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+#submit {
+    margin: 20px 0 0;
+    width: 100px;
+}
